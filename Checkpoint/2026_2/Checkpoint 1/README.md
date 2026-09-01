@@ -12,5 +12,12 @@ Disciplina: Soluções em Energias Renováveis e Sustentáveis
 * **Descrição da Atividade**: Consumo e tratamento de dados reais de carga elétrica por meio da API do Operador Nacional do Sistema Elétrico (ONS). Inclui a estruturação de dados em formato tabular, limpeza e validação de tipos, cálculo de indicadores estatísticos descritivos (mínimo, máximo, média, mediana e amplitude), recortes temporais, análise de períodos de alta demanda (picos de carga superior a 90% do máximo) e geração de visualizações gráficas.
 * **Fonte dos Dados**: [API de Carga Verificada do ONS](https://dados.ons.org.br/dataset/carga-energia-verificada) (Área de Carga: **SP — São Paulo**).
 
+### Integrantes
+* **Felipe Pereira Restivo - RM: 570712**
+* **Gabriel Rodrigues Zappelloni - RM: 572060**
+* **Kenichi Caio Yamamoto - RM: 569815**
+* **Maykon de Lima Silva – RM: 574022**
+* **Rodger Costa Rios - RM: 571438**
+
 ---
 *Repositório acadêmico voltado para o estudo de energias renováveis, análise de dados e machine learning aplicado ao setor elétrico.*
